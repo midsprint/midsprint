@@ -1,7 +1,6 @@
-### { midsprint }
-#### Sports Science Consulting
+### Midsprint Sports Science Consulting
 
-{ midsprint } Sports Science Consulting is an extension of the R package *midsprint* (github.com/aaronzpearson/midsprint). 
+Midsprint Sports Science Consulting is an extension of the R package *midsprint* (github.com/aaronzpearson/midsprint). 
 
 We help teams effectively analyze athlete tracking data to maximize their wellbeing and improve return-to-play. We accomplish this by modelling athletes' physiological responses to training and biomechanical abilities sprint mechanics. Doing so allows teams to build player profiles and incorporate these data into already existing internal structures like databases and applications.
 
